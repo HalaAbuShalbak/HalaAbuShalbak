@@ -3,13 +3,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width>
 
-- #### What I currently work with in projects :sunglasses:
+- ### What I currently work with in projects :sunglasses:
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img src="	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=yellow&color=grey">
+<img src="	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=yellow&color=black">
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -23,8 +23,8 @@
 
 
 
-- ####  :question: If you have any questions or suggenstions feel free to contact me :innocent:
-- ####  📫 How to reach me: 
+- ###  :question: If you have any questions or suggestions feel free to contact me :innocent:
+- ###  📫 How to reach me: 
 
 :email: halaj.abushalbak@gmail.com
 
