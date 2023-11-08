@@ -2,13 +2,12 @@
 #### I am Hala who is a developer  an orthotist and  a prosthetist who loves to work with complixity and finds the pleasure in getting things done, I always enjoy the journey no matter how long it was to get to the break point,there is no finishing though :no_mouth: you will always have a new target to head to :ok_hand:
 
 <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width>
-[My Projects](#-my-projects-)
-- ### What I currently work with in projects :sunglasses:
+
+- ### Technical Skills :sunglasses:
 
 - <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 - <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
-
 - <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black&color=F7DF1E">
 - <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=red&color=F7DF1E">
 - <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -29,9 +28,9 @@
 - ###  :question: If you have any questions or suggestions feel free to contact me :innocent:
 - ###  📫 How to reach me: 
 
-:email: halaj.abushalbak@gmail.com
+:email:  halaj.abushalbak@gmail.com
 
-<a href="https://www.linkedin.com/in/hala-joudehabushalbak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > hala-joudehabushalbak</a>
+<label>LinkeIn<a href="https://www.linkedin.com/in/hala-joudehabushalbak/"></label>hala-joudehabushalbak</a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
 
