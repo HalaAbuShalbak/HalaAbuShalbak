@@ -2,7 +2,7 @@
 #### I am Hala who is a developer  an orthotist and  a prosthetist who loves to work with complixity and finds the pleasure in getting things done, I always enjoy the journey no matter how long it was to get to the break point,there is no finishing though :no_mouth: you will always have a new target to head to :ok_hand:
 
 <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width>
-
+[My Projects](#-my-projects-)
 - ### What I currently work with in projects :sunglasses:
 
 - <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -21,7 +21,9 @@
 
 
 
-
+##  My Projects <a name = "my_projects"></a>
+- ### <a href= "https://github.com/C8-HalaAbuShalbak/MERAKI_Academy_Project_4">Easy Knowledge</a>
+- ### <a href= "https://github.com/Girl-Power2/MERAKI_Academy_Project_5">Cure App</a>
 
 
 - ###  :question: If you have any questions or suggestions feel free to contact me :innocent:
