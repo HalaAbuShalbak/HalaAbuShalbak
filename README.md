@@ -44,4 +44,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
 
+![Hala's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&theme=gruvbox)
+
 
