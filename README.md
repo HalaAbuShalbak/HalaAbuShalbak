@@ -40,7 +40,7 @@
 
 :email:  halaj.abushalbak@gmail.com
 
-<strong>LinkedIn</strong><a href="https://www.linkedin.com/in/hala-joudehabushalbak/">hala-joudehabushalbak</a>
+<strong>LinkedIn</strong><a href="https://www.linkedin.com/in/halaabushalbak/">halaabushalbak</a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
 
