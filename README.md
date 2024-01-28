@@ -2,17 +2,20 @@
 
 <font color="violet" size=5> I am Hala who is a <font color= "pink"> developer </font> an <font color= "pink"> orthotist </font> and a <font color= "pink"> prosthetist </font> who loves to work with complixity and finds the pleasure in getting things done, I always enjoy the journey no matter how long it was to get to the break point,there is no finishing though :no_mouth: you will always have a new target to head to :ok_hand:</font>
 
+
 <center><img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="75%" height="450"></center>
 
 ---
 
 <details >
 <summary> 
- :bulb: tools I currently work with in projects: :sunglasses:
+ :bulb: <strong>tools I currently work with in projects:</strong> :sunglasses:
 </summary>
 
-<img align="right" src="https://pbs.twimg.com/media/E43JZXaXwAEjhzf?format=png&name=small">
+<img align="right" src="https://pbs.twimg.com/media/E43JZXaXwAEjhzf?format=png&name=small" width="30%" height="30%">
 <details>
+
+
 
 <summary><font style="color:orange" background-color:lightyellow >Backend</font></summary>
 
@@ -30,8 +33,11 @@
 
 </details>
 
+
 <details>
 <summary>FrontEnd</summary>
+
+
 
 - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +50,8 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
-</details>
+
+
 
 <details>
 <summary>Other</summary>
@@ -57,20 +64,29 @@
 - ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </details>
+</details>
+<br>
 
----
+## feel free to contact me…
 
-:::feel free to contact me…
-
-:mailto:halaj.abushalbak@gmail.com
+<a  href=":mailto:halaj.abushalbak@gmail.com"> halaj.abushalbak@gmail.com</a>
 
 <a style="color:dampblue" href="https://www.linkedin.com/in/halaabushalbak/"> halaabushalbak </a> <br>
 <a  href="https://www.linkedin.com/in/halaabushalbak/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-:::
+--- 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+##  My Projects <a name = "my_projects"></a>
+- ### <a href= "https://github.com/C8-HalaAbuShalbak/MERAKI_Academy_Project_4">Easy Knowledge</a>
+- ### <a href= "https://github.com/Girl-Power2/MERAKI_Academy_Project_5">Cure App</a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalaAbuShalbak&size_weight=0&count_weight=1)](https://github.com/HalaAbuShalbak/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalaAbuShalbak&layout=pie)](https://github.com/HalaAbuShalbak/github-readme-stats)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalaAbuShalbak&layout=compact)
+![Hala's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalaAbuShalbak&show_icons=true&theme=gruvbox)
+
+
+
+
