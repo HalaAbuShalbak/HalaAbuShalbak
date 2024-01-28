@@ -12,7 +12,7 @@
  :bulb: <strong>tools I currently work with in projects:</strong> :sunglasses:
 </summary>
 
-<img align="right" src="https://pbs.twimg.com/media/E43JZXaXwAEjhzf?format=png&name=small" width="30%" height="30%">
+<img align="right" src="https://pbs.twimg.com/media/E43JZXaXwAEjhzf?format=png&name=small" width="30%" height="25%">
 <details>
 
 
